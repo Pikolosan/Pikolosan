@@ -1,7 +1,7 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif)]()
+[![MasterHead](221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif)]()
 <h1 align="center">Hi 👋, I'm Parth Chudhary</h1>
 <h3 align="center">Embracing the world of coding and technology as a Computer Science undergraduate, driven by passion and curiosity.</h3>
-<img align="right" alt="Coding" width="400" src="C:\Users\PARTH\Pictures\221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
