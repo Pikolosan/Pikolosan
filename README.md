@@ -28,3 +28,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pikolosan&show_icons=true&locale=en&layout=compact" alt="pikolosan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pikolosan&show_icons=true&locale=en" alt="pikolosan" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pikolosan&label=Profile%20views&color=0e75b6&style=flat" alt="pikolosan" /> </p>
