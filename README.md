@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Front End Dev**
 
-- 📫 How to reach me **parthchaudhary.jc@gmail.com**
+- 📫 How to reach me **parthchaudhary.jc@gmail.com** or on instgram and linkedin.
 
 - ⚡ Fun fact **I once spent an entire weekend coding a mini-game in Python and Unreal, just for the fun of it.**
 
