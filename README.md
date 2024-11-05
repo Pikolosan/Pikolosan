@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I once spent an entire weekend coding a mini-game in Python and Unreal, just for the fun of it.**
 
-<h3 align="left">Connect with me:</h3>
+# 🔗 Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/parth-chaudhary-aa82ab262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parth chauhdhary" height="30" width="40" /></a>
 <a href="https://instagram.com/___its.me.parth.___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___its.me.parth.___" height="30" width="40" /></a>
