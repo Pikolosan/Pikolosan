@@ -28,7 +28,8 @@
 <a href="https://www.leetcode.com/pikolosan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pikolosan" height="30" width="40" /></a>
 <a href="https://twitter.com/PC4622822921231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="parth chauhdhary" height="30" width="40" /></a>
 
-<br>
+<br><br>
+
 ## 🛠️ Languages and Tools:
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
