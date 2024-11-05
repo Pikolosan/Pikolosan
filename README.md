@@ -5,8 +5,8 @@
 <h1 align="center">Hi 👋, I'm Parth Chaudhary</h1>
 <h3 align="center">Embracing the world of coding and technology as a Computer Science undergraduate, driven by passion and curiosity. Open for feedback.</h3>
 
+<br>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
-
 - 🌱 I’m currently learning **FullStack Web Dev**
 
 - 👨‍💻 All of my projects are available at [Git-Hub](https://github.com/Pikolosan)
@@ -28,7 +28,7 @@
 <a href="https://www.leetcode.com/pikolosan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pikolosan" height="30" width="40" /></a>
 <a href="https://twitter.com/PC4622822921231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="parth chauhdhary" height="30" width="40" /></a>
 
-<br><br>
+<br>
 
 ## 🛠️ Languages and Tools:
 <p align="center">
@@ -47,8 +47,6 @@
 </p>
 
 <br>
-
-##
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pikolosan&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=pikolosan&show_icons=true&locale=en" alt="GitHub Stats" />
