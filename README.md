@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **parthchaudhary.jc@gmail.com** or on Instagram and LinkedIn.
 
-- ⚡ Fun fact **I once spent an entire weekend coding a mini-game in Python and Unreal, just for the fun of it.**
+- ⚡ Fun fact **I once spent an entire weekend coding a mini-game in Python and Unreal, just for the fun of it and created a small open world shooter game.**
 
 <br>
 
