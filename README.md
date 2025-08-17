@@ -51,5 +51,5 @@
 <br>
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pikolosan&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=pikolosan&show_icons=true&locale=en" alt="GitHub Stats" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=pikolosan&show_icons=true&locale=en" alt="GitHub Stats" /> -->
 </div>
